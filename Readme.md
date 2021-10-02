@@ -1,4 +1,4 @@
 # Git using VS Code
--git push
--git pull
--pull request
+-Git Push
+-Git Pull
+-Pull Request
